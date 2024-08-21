@@ -15,30 +15,36 @@ public class JavaEx01 {
 //		
 //		System.out.println("welcome, " + name + "!");
 		
-		int age = 24;
-		long population = 8900000000000000L;
+//		int age = 24;
+//		long population = 8900000000000000L;
+//		
+//		double height = 169.4;
+//		float weight = 70.5f;
+//		
+//		char ch = '3';
+//		
+//		boolean isStudent = true;
+//		
+//		System.out.println("Age: " + age);
+//		
+//		double pi = 3.14;
+//		int truncatedPi = (int) pi;
+//		System.out.println("pi: " + pi+", truncatedPi: " + truncatedPi);
+//		
+//		System.out.print("Enter number: ");
+//		int num = sc.nextInt();
+//		if(num%2 == 0) {
+//			System.out.println(num + " is an even number.");
+//			
+//		} else {
+//			System.out.println(num + " is an odd number.");
+//		}
 		
-		double height = 169.4;
-		float weight = 70.5f;
+		String name = "김상호";
+		int age = 26;
+		System.out.println("이름: " + name);
+		System.out.println("나이: " + age);
 		
-		char ch = '3';
-		
-		boolean isStudent = true;
-		
-		System.out.println("Age: " + age);
-		
-		double pi = 3.14;
-		int truncatedPi = (int) pi;
-		System.out.println("pi: " + pi+", truncatedPi: " + truncatedPi);
-		
-		System.out.print("Enter number: ");
-		int num = sc.nextInt();
-		if(num%2 == 0) {
-			System.out.println(num + " is an even number.");
-			
-		} else {
-			System.out.println(num + " is an odd number.");
-		}
 		
 	}
 
